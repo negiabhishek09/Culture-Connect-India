@@ -29,7 +29,7 @@ const NotificationSchema = new Schema<INotification>(
     message: { type: String, required: true },
     isRead: { type: Boolean, default: false },
   },
-  { timestamps: true, toJSON: { transform: (_d, r) => { delete r.__v; return r; } } }
+  { timestamps: true, toJSON: { transform: (_d, r: Record<string, any>) => { delete r.__v; return r; } } }
 );
 
 NotificationSchema.index({ userId: 1, createdAt: -1 });

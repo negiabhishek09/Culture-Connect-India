@@ -48,7 +48,7 @@ const OrderSchema = new Schema<IOrder>(
     phone: { type: String, required: true },
     notes: { type: String },
   },
-  { timestamps: true, toJSON: { transform: (_d, r) => { delete r.__v; return r; } } }
+  { timestamps: true, toJSON: { transform: (_d, r: any) => { delete r.__v; return r; } } }
 );
 
 OrderSchema.index({ userId: 1, createdAt: -1 });

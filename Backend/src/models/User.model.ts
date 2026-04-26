@@ -59,30 +59,29 @@ const UserSchema = new Schema<IUser>(
     timestamps: true,
     toJSON: {
       transform: (_doc, ret) => {
-        delete ret.password;
-        delete ret.refreshToken;
-        delete ret.__v;
+        delete (ret as any).password;
+        delete (ret as any).refreshToken;
+        delete (ret as any).__v;
         return ret;
       },
     },
   }
 );
 
-// Hash password before save
-UserSchema.pre('save', async function (next) {
-  if (!this.isModified('password')) return next();
+
+UserSchema.pre('save', async function () {
+  if (!this.isModified('password')) return;
   this.password = await bcrypt.hash(this.password, 12);
-  next();
 });
 
-// Compare password
+
 UserSchema.methods.comparePassword = async function (
   candidatePassword: string
 ): Promise<boolean> {
   return bcrypt.compare(candidatePassword, this.password);
 };
 
-// ✅ ONLY valid indexes (no duplicate)
+
 UserSchema.index({ role: 1 });
 UserSchema.index({ createdAt: -1 });
 

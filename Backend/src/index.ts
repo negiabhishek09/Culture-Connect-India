@@ -1,36 +1,36 @@
-import 'dotenv/config';
-import dotenv from 'dotenv';
-dotenv.config();
-import app from './app';
-import { connectDB, disconnectDB } from './config/database';
-import { logger } from './config/logger';
-import process from 'process';
+import "dotenv/config";
+import app from "./app";
+import { connectDB, disconnectDB } from "./config/database";
+import { logger } from "./config/logger";
+import searchRoutes from "./routes/search.routes";
 
-const PORT = process.env.PORT || 5000;
+// 🔥 Register routes BEFORE server start
+// app.use("/api/v1", searchRoutes);
+
+const PORT = process.env.PORT || 8000;
 
 async function bootstrap() {
-  await connectDB();
+  try {
+    // ✅ DB connect
+    await connectDB();
 
-  app.listen(PORT, () => {
-    logger.info(`🚀 Cultural Connect India API running on port ${PORT}`);
-    logger.info(`📦 Database: MongoDB`);
-    logger.info(`📖 Environment: ${process.env.NODE_ENV}`);
-    logger.info(`🔗 Base URL: http://localhost:${PORT}${process.env.API_PREFIX || '/api/v1'}`);
-  });
+    // ✅ Server start
+    app.listen(PORT, () => {
+      logger.info(`Server running on port ${PORT}`);
+      logger.info(`Base URL: http://localhost:${PORT}/api/v1`);
+    });
+
+  } catch (error) {
+    logger.error("❌ Failed to start server:", error);
+    process.exit(1);
+  }
 }
 
-// Graceful shutdown
-const shutdown = async (signal: string) => {
-  logger.info(`${signal} received — shutting down gracefully...`);
+// ✅ Graceful shutdown
+process.on("SIGINT", async () => {
+  logger.info("Shutting down server...");
   await disconnectDB();
   process.exit(0);
-};
-
-process.on('SIGTERM', () => shutdown('SIGTERM'));
-process.on('SIGINT',  () => shutdown('SIGINT'));
-process.on('unhandledRejection', (reason) => {
-  logger.error('Unhandled Rejection:', reason);
-  process.exit(1);
 });
 
 bootstrap();

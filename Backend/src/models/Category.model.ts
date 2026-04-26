@@ -18,7 +18,7 @@ const CategorySchema = new Schema<ICategory>(
   {
     name: { type: String, required: true, unique: true, trim: true },
 
-    // ✅ unique hi enough hai
+   
     slug: { type: String, required: true, unique: true, lowercase: true },
 
     description: { type: String, required: true },
@@ -39,10 +39,9 @@ const CategorySchema = new Schema<ICategory>(
   }
 );
 
-// ✅ KEEP this
+
 CategorySchema.index({ isActive: 1 });
 
-// ❌ REMOVE duplicate slug index
-// CategorySchema.index({ slug: 1 });
+
 
 export const Category = mongoose.model<ICategory>('Category', CategorySchema);

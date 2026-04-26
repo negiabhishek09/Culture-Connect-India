@@ -26,7 +26,7 @@ export const sendEmail = async (options: EmailOptions): Promise<void> => {
 export const sendWelcomeEmail = (name: string, email: string) =>
   sendEmail({
     to: email,
-    subject: 'Welcome to Cultural Connect India 🪔',
+    subject: 'Welcome to Cultural Connect India 🇮🇳',
     html: `
       <div style="font-family:sans-serif;max-width:600px;margin:0 auto;">
         <div style="background:linear-gradient(135deg,#f97316,#ea580c);padding:32px;border-radius:12px 12px 0 0;">
@@ -34,17 +34,17 @@ export const sendWelcomeEmail = (name: string, email: string) =>
           <p style="color:rgba(255,255,255,0.85);margin:6px 0 0;">Connecting India's Culture & Heritage</p>
         </div>
         <div style="background:#fff;padding:32px;border-radius:0 0 12px 12px;border:1px solid #e5e7eb;">
-          <h2 style="color:#111827;">Namaste, ${name}! 🙏</h2>
+          <h2 style="color:#111827;">Namaste, ${name}! </h2>
           <p style="color:#4b5563;line-height:1.7;">
             Thank you for joining Cultural Connect India — a platform dedicated to celebrating
             and preserving India's incredible cultural heritage.
           </p>
           <p style="color:#4b5563;line-height:1.7;">Start exploring:</p>
           <ul style="color:#4b5563;line-height:2.2;">
-            <li>🎪 Upcoming festivals &amp; cultural events</li>
-            <li>🛍️ Authentic products from verified artisans</li>
-            <li>📸 Share your cultural experiences in the community</li>
-            <li>🗺️ Discover heritage across all Indian states</li>
+            <li> Upcoming festivals &amp; cultural events</li>
+            <li> Authentic products from verified artisans</li>
+            <li> Share your cultural experiences in the community</li>
+            <li> Discover heritage across all Indian states</li>
           </ul>
           <a href="${process.env.CLIENT_URL}/explore"
              style="display:inline-block;background:#f97316;color:#fff;padding:13px 30px;border-radius:50px;text-decoration:none;font-weight:600;margin-top:16px;">
@@ -65,7 +65,7 @@ export const sendOrderConfirmationEmail = (
 ) =>
   sendEmail({
     to: email,
-    subject: `Order Confirmed #${orderId.slice(-8).toUpperCase()} 🎉`,
+    subject: `Order Confirmed #${orderId.slice(-8).toUpperCase()} `,
     html: `
       <div style="font-family:sans-serif;max-width:600px;margin:0 auto;">
         <div style="background:linear-gradient(135deg,#f97316,#ea580c);padding:32px;border-radius:12px 12px 0 0;">

@@ -43,7 +43,15 @@ const PostSchema = new Schema<IPost>(
     comments: { type: [CommentSchema], default: [] },
     isActive: { type: Boolean, default: true },
   },
-  { timestamps: true, toJSON: { transform: (_d, r) => { delete r.__v; return r; } } }
+  {
+    timestamps: true,
+    toJSON: {
+      transform: (_d, r) => {
+        delete (r as any).__v;
+        return r;
+      },
+    },
+  }
 );
 
 PostSchema.index({ userId: 1 });

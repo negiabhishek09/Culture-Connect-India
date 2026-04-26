@@ -5,8 +5,8 @@ import { validate, registerSchema, loginSchema, refreshSchema } from '../middlew
 
 const router = Router();
 router.post('/register', validate(registerSchema), register);
-router.post('/login',    validate(loginSchema),    login);
-router.post('/refresh',  validate(refreshSchema),  refreshToken);
-router.post('/logout',   protect,                  logout);
-router.get('/me',        protect,                  getMe);
+router.post('/login', validate(loginSchema), login);
+router.post('/refresh', validate(refreshSchema), refreshToken);
+router.post('/logout', protect, logout);
+router.get('/me', protect, getMe);
 export default router;

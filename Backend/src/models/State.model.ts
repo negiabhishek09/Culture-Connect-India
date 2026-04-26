@@ -20,7 +20,7 @@ const StateSchema = new Schema<IState>(
   {
     name: { type: String, required: true, unique: true, trim: true },
 
-    // ✅ unique hi enough hai (index auto banega)
+   
     slug: { type: String, required: true, unique: true, lowercase: true },
 
     description: { type: String, required: true },
@@ -43,18 +43,17 @@ const StateSchema = new Schema<IState>(
     timestamps: true,
     toJSON: {
       transform: (_doc, ret) => {
-        delete ret.__v;
+        delete (ret as any).__v;
         return ret;
       },
     },
   }
 );
 
-// ✅ KEEP THESE (useful indexes)
+
 StateSchema.index({ isFeatured: -1, name: 1 });
 StateSchema.index({ region: 1 });
 
-// ❌ REMOVE duplicate slug index
-// StateSchema.index({ slug: 1 });
+
 
 export const State = mongoose.model<IState>('State', StateSchema);

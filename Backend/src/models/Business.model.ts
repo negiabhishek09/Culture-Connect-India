@@ -46,7 +46,7 @@ const BusinessSchema = new Schema<IBusiness>(
   {
     name: { type: String, required: true, trim: true },
 
-    // ✅ unique hi enough hai (index auto banega)
+    
     slug: { type: String, required: true, unique: true, lowercase: true },
 
     description: { type: String, required: true },
@@ -74,20 +74,19 @@ const BusinessSchema = new Schema<IBusiness>(
     timestamps: true,
     toJSON: {
       transform: (_doc, ret) => {
-        delete ret.__v;
+        delete (ret as any).__v;
         return ret;
       },
     },
   }
 );
 
-// ✅ KEEP useful indexes
+//  useful indexes
 BusinessSchema.index({ stateId: 1 });
 BusinessSchema.index({ categoryId: 1 });
 BusinessSchema.index({ isVerified: 1, rating: -1 });
 BusinessSchema.index({ isFeatured: -1, rating: -1 });
 
-// ❌ REMOVE duplicate slug index
-// BusinessSchema.index({ slug: 1 });
+
 
 export const Business = mongoose.model<IBusiness>('Business', BusinessSchema);

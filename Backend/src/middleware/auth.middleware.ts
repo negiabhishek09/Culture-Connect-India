@@ -57,7 +57,7 @@ export const optionalAuth = async (req: Request, _res: Response, next: NextFunct
       }
     }
   } catch {
-    // Silently ignore — optional auth never blocks
+    
   }
   next();
 };

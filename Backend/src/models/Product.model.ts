@@ -51,7 +51,7 @@ const ProductSchema = new Schema<IProduct>(
   {
     timestamps: true,
     toJSON: {
-      transform: (_doc, ret) => {
+      transform: (_doc, ret: any) => {
         delete ret.__v;
         return ret;
       },
@@ -66,7 +66,6 @@ ProductSchema.index({ isFeatured: -1, soldCount: -1 });
 ProductSchema.index({ price: 1 });
 ProductSchema.index({ isActive: 1, isFeatured: -1 });
 
-// ❌ REMOVE duplicate slug index
-// ProductSchema.index({ slug: 1 });
+
 
 export const Product = mongoose.model<IProduct>('Product', ProductSchema);

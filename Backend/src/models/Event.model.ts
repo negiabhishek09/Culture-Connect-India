@@ -24,7 +24,7 @@ const EventSchema = new Schema<IEvent>(
   {
     name: { type: String, required: true, trim: true },
 
-    // ✅ unique hi enough hai (index automatically banega)
+ 
     slug: { type: String, required: true, unique: true, lowercase: true },
 
     description: { type: String, required: true },
@@ -45,7 +45,7 @@ const EventSchema = new Schema<IEvent>(
   {
     timestamps: true,
     toJSON: {
-      transform: (_doc, ret) => {
+      transform: (_doc, ret: any) => {
         delete ret.__v;
         return ret;
       },
@@ -59,7 +59,6 @@ EventSchema.index({ categoryId: 1 });
 EventSchema.index({ isFeatured: -1, startDate: 1 });
 EventSchema.index({ startDate: 1, isActive: 1 });
 
-// ❌ REMOVED duplicate slug index (important fix)
-// EventSchema.index({ slug: 1 });
+
 
 export const Event = mongoose.model<IEvent>('Event', EventSchema);

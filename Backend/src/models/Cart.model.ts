@@ -22,7 +22,7 @@ const CartItemSchema = new Schema<ICartItem>(
 
 const CartSchema = new Schema<ICart>(
   {
-    // ✅ unique hi enough hai
+   
     userId: { type: Schema.Types.ObjectId, ref: 'User', required: true, unique: true },
 
     items: { type: [CartItemSchema], default: [] },
@@ -38,7 +38,6 @@ const CartSchema = new Schema<ICart>(
   }
 );
 
-// ❌ REMOVE duplicate index
-// CartSchema.index({ userId: 1 });
+
 
 export const Cart = mongoose.model<ICart>('Cart', CartSchema);

@@ -10,6 +10,10 @@ cloudinary.config({
 });
 
 // Memory storage — stream directly to Cloudinary, no disk writes
+
+
+
+
 const storage = multer.memoryStorage();
 
 const fileFilter = (_req: Request, file: Express.Multer.File, cb: multer.FileFilterCallback) => {
