@@ -1,0 +1,888 @@
+2026-04-22 15:28:12 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-22 15:28:12 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-22 15:28:12 [info]: 📦 Database: MongoDB
+2026-04-22 15:28:12 [info]: 📖 Environment: undefined
+2026-04-22 15:28:12 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-22 15:29:03 [info]: SIGTERM received — shutting down gracefully...
+2026-04-22 15:29:03 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-22 15:29:03 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-22 15:29:03 [info]: 📦 Database: MongoDB
+2026-04-22 15:29:03 [info]: 📖 Environment: undefined
+2026-04-22 15:29:03 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-22 15:29:08 [info]: SIGTERM received — shutting down gracefully...
+2026-04-22 15:29:09 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-22 15:29:09 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-22 15:29:09 [info]: 📦 Database: MongoDB
+2026-04-22 15:29:09 [info]: 📖 Environment: undefined
+2026-04-22 15:29:09 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-22 15:31:45 [info]: SIGINT received — shutting down gracefully...
+2026-04-22 15:32:46 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-22 15:32:46 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-22 15:32:46 [info]: 📦 Database: MongoDB
+2026-04-22 15:32:46 [info]: 📖 Environment: development
+2026-04-22 15:32:46 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-22 15:34:07 [info]: SIGINT received — shutting down gracefully...
+2026-04-22 15:35:52 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-22 15:35:52 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-22 15:35:52 [info]: 📦 Database: MongoDB
+2026-04-22 15:35:52 [info]: 📖 Environment: development
+2026-04-22 15:35:52 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-22 15:38:14 [info]: SIGTERM received — shutting down gracefully...
+2026-04-22 15:38:15 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-22 15:38:15 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-22 15:38:15 [info]: 📦 Database: MongoDB
+2026-04-22 15:38:15 [info]: 📖 Environment: development
+2026-04-22 15:38:15 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-22 15:38:17 [info]: SIGTERM received — shutting down gracefully...
+2026-04-22 15:38:17 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-22 15:38:17 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-22 15:38:17 [info]: 📦 Database: MongoDB
+2026-04-22 15:38:17 [info]: 📖 Environment: development
+2026-04-22 15:38:17 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-22 15:39:16 [info]: SIGTERM received — shutting down gracefully...
+2026-04-22 15:39:17 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-22 15:39:17 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-22 15:39:17 [info]: 📦 Database: MongoDB
+2026-04-22 15:39:17 [info]: 📖 Environment: development
+2026-04-22 15:39:17 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-22 15:40:30 [info]: SIGTERM received — shutting down gracefully...
+2026-04-22 15:40:30 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-22 15:40:30 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-22 15:40:30 [info]: 📦 Database: MongoDB
+2026-04-22 15:40:30 [info]: 📖 Environment: development
+2026-04-22 15:40:30 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-22 15:40:41 [info]: SIGTERM received — shutting down gracefully...
+2026-04-22 15:40:41 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-22 15:40:41 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-22 15:40:41 [info]: 📦 Database: MongoDB
+2026-04-22 15:40:41 [info]: 📖 Environment: development
+2026-04-22 15:40:41 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-22 15:41:35 [info]: SIGTERM received — shutting down gracefully...
+2026-04-22 15:41:36 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-22 15:41:36 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-22 15:41:36 [info]: 📦 Database: MongoDB
+2026-04-22 15:41:36 [info]: 📖 Environment: development
+2026-04-22 15:41:36 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-22 15:41:42 [info]: SIGTERM received — shutting down gracefully...
+2026-04-22 15:41:43 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-22 15:41:43 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-22 15:41:43 [info]: 📦 Database: MongoDB
+2026-04-22 15:41:43 [info]: 📖 Environment: development
+2026-04-22 15:41:43 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-22 15:42:37 [info]: SIGTERM received — shutting down gracefully...
+2026-04-22 15:42:37 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-22 15:42:37 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-22 15:42:37 [info]: 📦 Database: MongoDB
+2026-04-22 15:42:37 [info]: 📖 Environment: development
+2026-04-22 15:42:37 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-22 15:42:44 [info]: SIGTERM received — shutting down gracefully...
+2026-04-22 15:42:45 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-22 15:42:45 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-22 15:42:45 [info]: 📦 Database: MongoDB
+2026-04-22 15:42:45 [info]: 📖 Environment: development
+2026-04-22 15:42:45 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-22 15:43:16 [info]: SIGTERM received — shutting down gracefully...
+2026-04-22 15:43:18 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-22 15:43:18 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-22 15:43:18 [info]: 📦 Database: MongoDB
+2026-04-22 15:43:18 [info]: 📖 Environment: development
+2026-04-22 15:43:18 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-22 15:43:18 [info]: SIGTERM received — shutting down gracefully...
+2026-04-22 15:43:18 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-22 15:43:18 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-22 15:43:18 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-22 15:43:18 [info]: 📦 Database: MongoDB
+2026-04-22 15:43:18 [info]: 📖 Environment: development
+2026-04-22 15:43:18 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-22 16:02:59 [info]: SIGINT received — shutting down gracefully...
+2026-04-24 11:10:46 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:10:46 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:10:46 [info]: 📦 Database: MongoDB
+2026-04-24 11:10:46 [info]: 📖 Environment: development
+2026-04-24 11:10:46 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:10:53 [info]: SIGINT received — shutting down gracefully...
+2026-04-24 11:11:00 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:11:00 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:11:00 [info]: 📦 Database: MongoDB
+2026-04-24 11:11:00 [info]: 📖 Environment: development
+2026-04-24 11:11:00 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:11:32 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:11:32 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:11:32 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:11:32 [info]: 📦 Database: MongoDB
+2026-04-24 11:11:32 [info]: 📖 Environment: development
+2026-04-24 11:11:32 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:11:41 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:11:42 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:11:42 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:11:42 [info]: 📦 Database: MongoDB
+2026-04-24 11:11:42 [info]: 📖 Environment: development
+2026-04-24 11:11:42 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:11:48 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:11:49 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:11:49 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:11:49 [info]: 📦 Database: MongoDB
+2026-04-24 11:11:49 [info]: 📖 Environment: development
+2026-04-24 11:11:49 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:11:55 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:11:55 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:11:55 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:11:55 [info]: 📦 Database: MongoDB
+2026-04-24 11:11:55 [info]: 📖 Environment: development
+2026-04-24 11:11:55 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:11:59 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:11:59 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:11:59 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:11:59 [info]: 📦 Database: MongoDB
+2026-04-24 11:11:59 [info]: 📖 Environment: development
+2026-04-24 11:11:59 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:12:06 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:12:06 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:12:06 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:12:06 [info]: 📦 Database: MongoDB
+2026-04-24 11:12:06 [info]: 📖 Environment: development
+2026-04-24 11:12:06 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:12:09 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:12:10 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:12:10 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:12:10 [info]: 📦 Database: MongoDB
+2026-04-24 11:12:10 [info]: 📖 Environment: development
+2026-04-24 11:12:10 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:12:14 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:12:14 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:12:14 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:12:14 [info]: 📦 Database: MongoDB
+2026-04-24 11:12:14 [info]: 📖 Environment: development
+2026-04-24 11:12:14 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:12:21 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:12:22 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:12:22 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:12:22 [info]: 📦 Database: MongoDB
+2026-04-24 11:12:22 [info]: 📖 Environment: development
+2026-04-24 11:12:22 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:12:26 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:12:26 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:12:26 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:12:26 [info]: 📦 Database: MongoDB
+2026-04-24 11:12:26 [info]: 📖 Environment: development
+2026-04-24 11:12:26 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:12:33 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:12:33 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:12:33 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:12:33 [info]: 📦 Database: MongoDB
+2026-04-24 11:12:33 [info]: 📖 Environment: development
+2026-04-24 11:12:33 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:12:41 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:12:42 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:12:42 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:12:42 [info]: 📦 Database: MongoDB
+2026-04-24 11:12:42 [info]: 📖 Environment: development
+2026-04-24 11:12:42 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:12:44 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:12:45 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:12:45 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:12:45 [info]: 📦 Database: MongoDB
+2026-04-24 11:12:45 [info]: 📖 Environment: development
+2026-04-24 11:12:45 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:13:38 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:13:39 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:13:39 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:13:39 [info]: 📦 Database: MongoDB
+2026-04-24 11:13:39 [info]: 📖 Environment: development
+2026-04-24 11:13:39 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:13:41 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:13:41 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:13:41 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:13:41 [info]: 📦 Database: MongoDB
+2026-04-24 11:13:41 [info]: 📖 Environment: development
+2026-04-24 11:13:41 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:13:52 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:13:53 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:13:53 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:13:53 [info]: 📦 Database: MongoDB
+2026-04-24 11:13:53 [info]: 📖 Environment: development
+2026-04-24 11:13:53 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:14:06 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:14:07 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:14:07 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:14:07 [info]: 📦 Database: MongoDB
+2026-04-24 11:14:07 [info]: 📖 Environment: development
+2026-04-24 11:14:07 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:14:16 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:14:16 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:14:16 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:14:16 [info]: 📦 Database: MongoDB
+2026-04-24 11:14:16 [info]: 📖 Environment: development
+2026-04-24 11:14:16 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:17:10 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:17:10 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:17:10 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:17:10 [info]: 📦 Database: MongoDB
+2026-04-24 11:17:10 [info]: 📖 Environment: development
+2026-04-24 11:17:10 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:17:17 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:17:18 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:17:18 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:17:18 [info]: 📦 Database: MongoDB
+2026-04-24 11:17:18 [info]: 📖 Environment: development
+2026-04-24 11:17:18 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:17:20 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:17:20 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:17:20 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:17:20 [info]: 📦 Database: MongoDB
+2026-04-24 11:17:20 [info]: 📖 Environment: development
+2026-04-24 11:17:20 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:17:29 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:17:30 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:17:30 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:17:30 [info]: 📦 Database: MongoDB
+2026-04-24 11:17:30 [info]: 📖 Environment: development
+2026-04-24 11:17:30 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:17:33 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:17:34 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:17:34 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:17:34 [info]: 📦 Database: MongoDB
+2026-04-24 11:17:34 [info]: 📖 Environment: development
+2026-04-24 11:17:34 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:17:43 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:17:43 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:17:43 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:17:43 [info]: 📦 Database: MongoDB
+2026-04-24 11:17:43 [info]: 📖 Environment: development
+2026-04-24 11:17:43 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:17:49 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:17:50 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:17:50 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:17:50 [info]: 📦 Database: MongoDB
+2026-04-24 11:17:50 [info]: 📖 Environment: development
+2026-04-24 11:17:50 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:17:51 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:17:51 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:17:51 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:17:51 [info]: 📦 Database: MongoDB
+2026-04-24 11:17:51 [info]: 📖 Environment: development
+2026-04-24 11:17:51 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:17:56 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:17:56 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:17:57 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:17:57 [info]: 📦 Database: MongoDB
+2026-04-24 11:17:57 [info]: 📖 Environment: development
+2026-04-24 11:17:57 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:18:01 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:18:01 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:18:01 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:18:01 [info]: 📦 Database: MongoDB
+2026-04-24 11:18:01 [info]: 📖 Environment: development
+2026-04-24 11:18:01 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:18:12 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:18:12 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:18:12 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:18:12 [info]: 📦 Database: MongoDB
+2026-04-24 11:18:12 [info]: 📖 Environment: development
+2026-04-24 11:18:12 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:18:13 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:18:14 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:18:14 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:18:14 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:18:14 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:18:14 [info]: 📦 Database: MongoDB
+2026-04-24 11:18:14 [info]: 📖 Environment: development
+2026-04-24 11:18:14 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:18:20 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:18:21 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:18:21 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:18:21 [info]: 📦 Database: MongoDB
+2026-04-24 11:18:21 [info]: 📖 Environment: development
+2026-04-24 11:18:21 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:18:25 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:18:25 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:18:25 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:18:25 [info]: 📦 Database: MongoDB
+2026-04-24 11:18:25 [info]: 📖 Environment: development
+2026-04-24 11:18:25 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:18:28 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:18:29 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:18:29 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:18:29 [info]: 📦 Database: MongoDB
+2026-04-24 11:18:29 [info]: 📖 Environment: development
+2026-04-24 11:18:29 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:18:57 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:19:01 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:19:01 [info]: 🚀 Cultural Connect India API running on port 5000
+2026-04-24 11:19:01 [info]: 📦 Database: MongoDB
+2026-04-24 11:19:01 [info]: 📖 Environment: development
+2026-04-24 11:19:01 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:19:10 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:19:11 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:19:11 [info]: 🚀Cultural Connect India API running on port 5000
+2026-04-24 11:19:11 [info]: 📦 Database: MongoDB
+2026-04-24 11:19:11 [info]: 📖 Environment: development
+2026-04-24 11:19:11 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:19:12 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:19:12 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-24 11:19:12 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:19:12 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:19:12 [info]: 📦 Database: MongoDB
+2026-04-24 11:19:12 [info]: 📖 Environment: development
+2026-04-24 11:19:12 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:19:13 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:19:13 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:19:13 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:19:13 [info]:  Database: MongoDB
+2026-04-24 11:19:13 [info]: 📖 Environment: development
+2026-04-24 11:19:13 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:19:14 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:19:15 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:19:15 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:19:15 [info]:  Database: MongoDB
+2026-04-24 11:19:15 [info]:  Environment: development
+2026-04-24 11:19:15 [info]: 🔗 Base URL: http://localhost:5000/api/v1
+2026-04-24 11:19:16 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:19:16 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:19:16 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:19:16 [info]:  Database: MongoDB
+2026-04-24 11:19:16 [info]:  Environment: development
+2026-04-24 11:19:16 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 11:19:17 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:19:17 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-24 11:19:17 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:19:17 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:19:17 [info]:  Database: MongoDB
+2026-04-24 11:19:17 [info]:  Environment: development
+2026-04-24 11:19:17 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 11:19:48 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:19:48 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:19:48 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:19:48 [info]:  Database: MongoDB
+2026-04-24 11:19:48 [info]:  Environment: development
+2026-04-24 11:19:48 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 11:19:57 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:19:57 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:19:57 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:19:57 [info]:  Database: MongoDB
+2026-04-24 11:19:57 [info]:  Environment: development
+2026-04-24 11:19:57 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 11:24:55 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:24:56 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:24:56 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:24:56 [info]:  Database: MongoDB
+2026-04-24 11:24:56 [info]:  Environment: development
+2026-04-24 11:24:56 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 11:30:36 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:30:37 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:30:37 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:30:37 [info]:  Database: MongoDB
+2026-04-24 11:30:37 [info]:  Environment: development
+2026-04-24 11:30:37 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 11:30:38 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:30:39 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:30:39 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:30:39 [info]:  Database: MongoDB
+2026-04-24 11:30:39 [info]:  Environment: development
+2026-04-24 11:30:39 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 11:30:44 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:30:45 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:30:45 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:30:45 [info]:  Database: MongoDB
+2026-04-24 11:30:45 [info]:  Environment: development
+2026-04-24 11:30:45 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 11:30:52 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:30:52 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:30:53 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:30:53 [info]:  Database: MongoDB
+2026-04-24 11:30:53 [info]:  Environment: development
+2026-04-24 11:30:53 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 11:31:58 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:31:59 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:31:59 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:31:59 [info]:  Database: MongoDB
+2026-04-24 11:31:59 [info]:  Environment: development
+2026-04-24 11:31:59 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 11:31:59 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:31:59 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:31:59 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:31:59 [info]:  Database: MongoDB
+2026-04-24 11:31:59 [info]:  Environment: development
+2026-04-24 11:31:59 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 11:32:00 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:32:01 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:32:01 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:32:01 [info]:  Database: MongoDB
+2026-04-24 11:32:01 [info]:  Environment: development
+2026-04-24 11:32:01 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 11:32:01 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:32:02 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:32:02 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:32:02 [info]:  Database: MongoDB
+2026-04-24 11:32:02 [info]:  Environment: development
+2026-04-24 11:32:02 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 11:32:07 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:32:07 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:32:07 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:32:07 [info]:  Database: MongoDB
+2026-04-24 11:32:07 [info]:  Environment: development
+2026-04-24 11:32:07 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 11:32:11 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:32:11 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:32:11 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:32:11 [info]:  Database: MongoDB
+2026-04-24 11:32:11 [info]:  Environment: development
+2026-04-24 11:32:11 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 11:32:15 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:32:15 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:32:15 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:32:15 [info]:  Database: MongoDB
+2026-04-24 11:32:15 [info]:  Environment: development
+2026-04-24 11:32:15 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 11:32:20 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:32:21 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:32:21 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:32:21 [info]:  Database: MongoDB
+2026-04-24 11:32:21 [info]:  Environment: development
+2026-04-24 11:32:21 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 11:32:25 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:32:25 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:32:25 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:32:25 [info]:  Database: MongoDB
+2026-04-24 11:32:25 [info]:  Environment: development
+2026-04-24 11:32:25 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 11:32:41 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:32:41 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:32:41 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:32:41 [info]:  Database: MongoDB
+2026-04-24 11:32:41 [info]:  Environment: development
+2026-04-24 11:32:41 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 11:32:48 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:32:48 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:32:48 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:32:48 [info]:  Database: MongoDB
+2026-04-24 11:32:48 [info]:  Environment: development
+2026-04-24 11:32:48 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 11:33:00 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:33:00 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:33:00 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:33:00 [info]:  Database: MongoDB
+2026-04-24 11:33:00 [info]:  Environment: development
+2026-04-24 11:33:00 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 11:33:15 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 11:33:16 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 11:33:16 [info]: Cultural Connect India API running on port 5000
+2026-04-24 11:33:16 [info]:  Database: MongoDB
+2026-04-24 11:33:16 [info]:  Environment: development
+2026-04-24 11:33:16 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 11:49:57 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-24 12:06:27 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-24 12:50:19 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-24 13:08:14 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-24 13:29:05 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-24 13:50:33 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-24 14:08:25 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-24 14:25:23 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-24 14:48:39 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-24 14:52:38 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-24 15:00:22 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-24 15:16:12 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-24 17:50:12 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 17:50:12 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-24 17:50:13 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 17:50:13 [info]: Cultural Connect India API running on port 5000
+2026-04-24 17:50:13 [info]:  Database: MongoDB
+2026-04-24 17:50:13 [info]:  Environment: development
+2026-04-24 17:50:13 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 17:50:14 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 17:50:14 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 17:50:14 [info]: Cultural Connect India API running on port 5000
+2026-04-24 17:50:14 [info]:  Database: MongoDB
+2026-04-24 17:50:14 [info]:  Environment: development
+2026-04-24 17:50:14 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 18:18:38 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-24 18:28:07 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-24 18:38:18 [info]: SIGINT received — shutting down gracefully...
+2026-04-24 18:38:18 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-24 18:56:56 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 18:56:56 [info]: Cultural Connect India API running on port 5000
+2026-04-24 18:56:56 [info]:  Database: MongoDB
+2026-04-24 18:56:56 [info]:  Environment: development
+2026-04-24 18:56:56 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 19:02:21 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 19:02:21 [info]: Cultural Connect India API running on port 5000
+2026-04-24 19:02:21 [info]:  Database: MongoDB
+2026-04-24 19:02:21 [info]:  Environment: development
+2026-04-24 19:02:21 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 19:06:55 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 19:06:56 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 19:06:56 [info]: Cultural Connect India API running on port 5000
+2026-04-24 19:06:56 [info]:  Database: MongoDB
+2026-04-24 19:06:56 [info]:  Environment: development
+2026-04-24 19:06:56 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 19:07:11 [info]: SIGINT received — shutting down gracefully...
+2026-04-24 19:07:15 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 19:07:15 [info]: Cultural Connect India API running on port 5000
+2026-04-24 19:07:15 [info]:  Database: MongoDB
+2026-04-24 19:07:15 [info]:  Environment: development
+2026-04-24 19:07:15 [info]:  Base URL: http://localhost:5000/api/v1
+2026-04-24 19:09:38 [info]: SIGINT received — shutting down gracefully...
+2026-04-24 19:10:42 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 19:10:42 [info]: Cultural Connect India API running on port 8000
+2026-04-24 19:10:42 [info]:  Database: MongoDB
+2026-04-24 19:10:42 [info]:  Environment: development
+2026-04-24 19:10:42 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-24 19:11:13 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 19:11:14 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 19:11:14 [info]: Cultural Connect India API running on port 8000
+2026-04-24 19:11:14 [info]:  Database: MongoDB
+2026-04-24 19:11:14 [info]:  Environment: development
+2026-04-24 19:11:14 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-24 19:11:41 [http]: ::1 - - [24/Apr/2026:13:41:41 +0000] "GET /api/v1 HTTP/1.1" 404 54 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15"
+2026-04-24 19:13:21 [info]: SIGINT received — shutting down gracefully...
+2026-04-24 19:13:49 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 19:13:49 [info]: Cultural Connect India API running on port 8000
+2026-04-24 19:13:49 [info]:  Database: MongoDB
+2026-04-24 19:13:49 [info]:  Environment: development
+2026-04-24 19:13:49 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-24 19:13:57 [http]: ::1 - - [24/Apr/2026:13:43:57 +0000] "GET /api/v1 HTTP/1.1" 404 54 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15"
+2026-04-24 19:15:06 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 19:15:07 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 19:15:07 [info]: Cultural Connect India API running on port 8000
+2026-04-24 19:15:07 [info]:  Database: MongoDB
+2026-04-24 19:15:07 [info]:  Environment: development
+2026-04-24 19:15:07 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-24 19:15:12 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 19:15:13 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 19:15:13 [info]: Cultural Connect India API running on port 8000
+2026-04-24 19:15:13 [info]:  Database: MongoDB
+2026-04-24 19:15:13 [info]:  Environment: development
+2026-04-24 19:15:13 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-24 19:15:16 [info]: SIGINT received — shutting down gracefully...
+2026-04-24 19:15:20 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 19:15:20 [info]: Cultural Connect India API running on port 8000
+2026-04-24 19:15:20 [info]:  Database: MongoDB
+2026-04-24 19:15:20 [info]:  Environment: development
+2026-04-24 19:15:20 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-24 19:15:28 [http]: ::1 - - [24/Apr/2026:13:45:28 +0000] "GET /api/v1 HTTP/1.1" 200 48 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15"
+2026-04-24 19:16:13 [http]: ::1 - - [24/Apr/2026:13:46:13 +0000] "GET /api/v1/users HTTP/1.1" 401 63 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15"
+2026-04-24 23:04:19 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 23:04:19 [info]: Cultural Connect India API running on port 8000
+2026-04-24 23:04:19 [info]:  Database: MongoDB
+2026-04-24 23:04:19 [info]:  Environment: development
+2026-04-24 23:04:19 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-24 23:04:28 [error]: TypeError: Cannot read properties of undefined (reading 'map')
+    at /Users/abhishek/Desktop/Culture-Connect-India/Backend/src/middleware/validation.middleware.ts:9:42
+    at Layer.handleRequest (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/index.js:295:15
+    at processParams (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/index.js:582:12)
+    at next (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/index.js:186:3)
+2026-04-24 23:04:28 [http]: ::1 - - [24/Apr/2026:17:34:28 +0000] "POST /api/v1/auth/register HTTP/1.1" 500 82 "-" "PostmanRuntime/7.51.0"
+2026-04-24 23:07:56 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 23:07:56 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 23:07:56 [info]: Cultural Connect India API running on port 8000
+2026-04-24 23:07:56 [info]:  Database: MongoDB
+2026-04-24 23:07:56 [info]:  Environment: development
+2026-04-24 23:07:56 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-24 23:08:08 [info]: SIGINT received — shutting down gracefully...
+2026-04-24 23:08:13 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 23:08:13 [info]: Cultural Connect India API running on port 8000
+2026-04-24 23:08:13 [info]:  Database: MongoDB
+2026-04-24 23:08:13 [info]:  Environment: development
+2026-04-24 23:08:13 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-24 23:09:31 [http]: ::1 - - [24/Apr/2026:17:39:31 +0000] "POST /api/v1/auth/register HTTP/1.1" 500 141 "-" "PostmanRuntime/7.51.0"
+2026-04-24 23:11:48 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 23:11:48 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 23:11:48 [info]: Cultural Connect India API running on port 8000
+2026-04-24 23:11:48 [info]:  Database: MongoDB
+2026-04-24 23:11:48 [info]:  Environment: development
+2026-04-24 23:11:48 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-24 23:11:52 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 23:11:53 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 23:11:53 [info]: Cultural Connect India API running on port 8000
+2026-04-24 23:11:53 [info]:  Database: MongoDB
+2026-04-24 23:11:53 [info]:  Environment: development
+2026-04-24 23:11:53 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-24 23:12:14 [http]: ::1 - - [24/Apr/2026:17:42:14 +0000] "POST /api/v1/auth/register HTTP/1.1" 500 141 "-" "PostmanRuntime/7.51.0"
+2026-04-24 23:12:16 [http]: ::1 - - [24/Apr/2026:17:42:16 +0000] "POST /api/v1/auth/register HTTP/1.1" 500 141 "-" "PostmanRuntime/7.51.0"
+2026-04-24 23:13:49 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 23:13:50 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 23:13:50 [info]: Cultural Connect India API running on port 8000
+2026-04-24 23:13:50 [info]:  Database: MongoDB
+2026-04-24 23:13:50 [info]:  Environment: development
+2026-04-24 23:13:50 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-24 23:14:39 [info]: SIGINT received — shutting down gracefully...
+2026-04-24 23:14:50 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 23:14:50 [info]: Cultural Connect India API running on port 8000
+2026-04-24 23:14:50 [info]:  Database: MongoDB
+2026-04-24 23:14:50 [info]:  Environment: development
+2026-04-24 23:14:50 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-24 23:15:39 [error]: ReferenceError: sendError is not defined
+    at /Users/abhishek/Desktop/Culture-Connect-India/Backend/src/middleware/validation.middleware.ts:6:7
+    at Layer.handleRequest (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/index.js:295:15
+    at processParams (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/index.js:582:12)
+    at next (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/index.js:186:3)
+2026-04-24 23:15:39 [http]: ::1 - - [24/Apr/2026:17:45:39 +0000] "POST /api/v1/auth/register HTTP/1.1" 500 55 "-" "PostmanRuntime/7.51.0"
+2026-04-24 23:19:36 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 23:19:37 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 23:19:37 [info]: Cultural Connect India API running on port 8000
+2026-04-24 23:19:37 [info]:  Database: MongoDB
+2026-04-24 23:19:37 [info]:  Environment: development
+2026-04-24 23:19:37 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-24 23:19:43 [info]: SIGINT received — shutting down gracefully...
+2026-04-24 23:19:47 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 23:19:47 [info]: Cultural Connect India API running on port 8000
+2026-04-24 23:19:47 [info]:  Database: MongoDB
+2026-04-24 23:19:47 [info]:  Environment: development
+2026-04-24 23:19:47 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-24 23:20:15 [http]: ::1 - - [24/Apr/2026:17:50:15 +0000] "POST /api/v1/auth/register HTTP/1.1" 500 106 "-" "PostmanRuntime/7.51.0"
+2026-04-24 23:22:47 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 23:22:48 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 23:22:48 [info]: Cultural Connect India API running on port 8000
+2026-04-24 23:22:48 [info]:  Database: MongoDB
+2026-04-24 23:22:48 [info]:  Environment: development
+2026-04-24 23:22:48 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-24 23:22:52 [info]: SIGINT received — shutting down gracefully...
+2026-04-24 23:23:02 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 23:23:02 [info]: Cultural Connect India API running on port 8000
+2026-04-24 23:23:02 [info]:  Database: MongoDB
+2026-04-24 23:23:02 [info]:  Environment: development
+2026-04-24 23:23:02 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-24 23:23:09 [http]: ::1 - - [24/Apr/2026:17:53:09 +0000] "POST /api/v1/auth/register HTTP/1.1" 422 143 "-" "PostmanRuntime/7.51.0"
+2026-04-24 23:23:53 [http]: ::1 - - [24/Apr/2026:17:53:53 +0000] "POST /api/v1/auth/register HTTP/1.1" 422 143 "-" "PostmanRuntime/7.51.0"
+2026-04-24 23:25:05 [error]: Error: secretOrPrivateKey must have a value
+    at Object.module.exports [as sign] (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/jsonwebtoken/sign.js:111:20)
+    at generateAccessToken (/Users/abhishek/Desktop/Culture-Connect-India/Backend/src/utils/jwt.utils.ts:6:7)
+    at /Users/abhishek/Desktop/Culture-Connect-India/Backend/src/controllers/auth.controller.ts:24:44
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/abhishek/Desktop/Culture-Connect-India/Backend/src/controllers/auth.controller.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-24 23:25:05 [http]: ::1 - - [24/Apr/2026:17:55:05 +0000] "POST /api/v1/auth/register HTTP/1.1" 500 67 "-" "PostmanRuntime/7.51.0"
+2026-04-24 23:27:37 [info]: SIGINT received — shutting down gracefully...
+2026-04-24 23:27:47 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 23:27:47 [info]: Cultural Connect India API running on port 8000
+2026-04-24 23:27:47 [info]:  Database: MongoDB
+2026-04-24 23:27:47 [info]:  Environment: development
+2026-04-24 23:27:47 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-24 23:27:51 [http]: ::1 - - [24/Apr/2026:17:57:51 +0000] "POST /api/v1/auth/register HTTP/1.1" 409 73 "-" "PostmanRuntime/7.51.0"
+2026-04-24 23:29:51 [error]: Error: secretOrPrivateKey must have a value
+    at Object.module.exports [as sign] (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/jsonwebtoken/sign.js:111:20)
+    at generateRefreshToken (/Users/abhishek/Desktop/Culture-Connect-India/Backend/src/utils/jwt.utils.ts:11:7)
+    at /Users/abhishek/Desktop/Culture-Connect-India/Backend/src/controllers/auth.controller.ts:65:46
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/abhishek/Desktop/Culture-Connect-India/Backend/src/controllers/auth.controller.ts:5:58)
+2026-04-24 23:29:51 [http]: ::1 - - [24/Apr/2026:17:59:51 +0000] "POST /api/v1/auth/login HTTP/1.1" 500 67 "-" "PostmanRuntime/7.51.0"
+2026-04-24 23:37:02 [info]: SIGTERM received — shutting down gracefully...
+2026-04-24 23:39:07 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-24 23:39:07 [info]: Cultural Connect India API running on port 8000
+2026-04-24 23:39:07 [info]:  Database: MongoDB
+2026-04-24 23:39:07 [info]:  Environment: development
+2026-04-24 23:39:07 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-24 23:39:34 [http]: ::1 - - [24/Apr/2026:18:09:34 +0000] "POST /api/v1/auth/login HTTP/1.1" 200 752 "-" "PostmanRuntime/7.51.0"
+2026-04-25 00:08:08 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 00:36:33 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 00:38:51 [info]: SIGINT received — shutting down gracefully...
+2026-04-25 00:38:51 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 00:53:26 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 00:53:26 [info]: Cultural Connect India API running on port 8000
+2026-04-25 00:53:26 [info]:  Database: MongoDB
+2026-04-25 00:53:26 [info]:  Environment: development
+2026-04-25 00:53:26 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-25 00:53:28 [info]: SIGINT received — shutting down gracefully...
+2026-04-25 01:08:48 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 01:08:48 [info]: Cultural Connect India API running on port 8000
+2026-04-25 01:08:48 [info]:  Database: MongoDB
+2026-04-25 01:08:48 [info]:  Environment: development
+2026-04-25 01:08:48 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-25 01:09:18 [http]: ::1 - - [24/Apr/2026:19:39:18 +0000] "GET /api/v1 HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15"
+2026-04-25 01:09:20 [http]: ::1 - - [24/Apr/2026:19:39:20 +0000] "GET / HTTP/1.1" 404 48 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15"
+2026-04-25 01:09:24 [http]: ::1 - - [24/Apr/2026:19:39:24 +0000] "GET /health HTTP/1.1" 200 15 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15"
+2026-04-25 01:10:02 [info]: SIGINT received — shutting down gracefully...
+2026-04-25 01:10:49 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 01:10:49 [info]: Cultural Connect India API running on port 8000
+2026-04-25 01:10:49 [info]:  Database: MongoDB
+2026-04-25 01:10:49 [info]:  Environment: development
+2026-04-25 01:10:49 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-25 01:10:53 [info]: SIGINT received — shutting down gracefully...
+2026-04-25 12:00:07 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 12:00:07 [info]: Cultural Connect India API running on port 8000
+2026-04-25 12:00:07 [info]:  Database: MongoDB
+2026-04-25 12:00:07 [info]:  Environment: development
+2026-04-25 12:00:07 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-25 12:02:23 [http]: ::1 - - [25/Apr/2026:06:32:23 +0000] "GET /api/v1/auth/login HTTP/1.1" 404 65 "-" "PostmanRuntime/7.51.0"
+2026-04-25 12:02:30 [http]: ::1 - - [25/Apr/2026:06:32:30 +0000] "POST /api/v1/auth/login HTTP/1.1" 200 752 "-" "PostmanRuntime/7.51.0"
+2026-04-25 12:09:32 [http]: ::1 - - [25/Apr/2026:06:39:32 +0000] "GET /api/health HTTP/1.1" 404 58 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15"
+2026-04-25 12:12:08 [info]: SIGINT received — shutting down gracefully...
+2026-04-25 12:14:59 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 12:14:59 [info]: Cultural Connect India API running on port 8000
+2026-04-25 12:14:59 [info]:  Database: MongoDB
+2026-04-25 12:14:59 [info]:  Environment: development
+2026-04-25 12:14:59 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-25 12:18:20 [http]: ::1 - - [25/Apr/2026:06:48:20 +0000] "POST /api/v1/auth/login HTTP/1.1" 200 752 "-" "PostmanRuntime/7.51.0"
+2026-04-25 12:38:37 [info]: SIGINT received — shutting down gracefully...
+2026-04-25 12:38:42 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 12:38:42 [info]: Cultural Connect India API running on port 8000
+2026-04-25 12:38:42 [info]:  Database: MongoDB
+2026-04-25 12:38:42 [info]:  Environment: development
+2026-04-25 12:38:42 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-25 12:38:44 [info]: SIGINT received — shutting down gracefully...
+2026-04-25 12:40:25 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 12:40:25 [info]: Cultural Connect India API running on port 8000
+2026-04-25 12:40:25 [info]:  Database: MongoDB
+2026-04-25 12:40:25 [info]:  Environment: development
+2026-04-25 12:40:25 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-25 12:42:07 [info]: SIGINT received — shutting down gracefully...
+2026-04-25 12:46:12 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 12:46:12 [info]: Cultural Connect India API running on port 8000
+2026-04-25 12:46:12 [info]:  Database: MongoDB
+2026-04-25 12:46:12 [info]:  Environment: development
+2026-04-25 12:46:12 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-25 12:46:17 [http]: ::1 - - [25/Apr/2026:07:16:17 +0000] "POST /api/v1/auth/login HTTP/1.1" 200 752 "-" "PostmanRuntime/7.51.0"
+2026-04-25 12:46:55 [http]: ::1 - - [25/Apr/2026:07:16:55 +0000] "POST /api/v1/auth/login HTTP/1.1" 200 752 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15"
+2026-04-25 12:47:04 [http]: ::1 - - [25/Apr/2026:07:17:04 +0000] "POST /api/v1/auth/login HTTP/1.1" 200 752 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15"
+2026-04-25 12:50:34 [info]: SIGINT received — shutting down gracefully...
+2026-04-25 12:50:39 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 12:50:39 [info]: Cultural Connect India API running on port 8000
+2026-04-25 12:50:39 [info]:  Database: MongoDB
+2026-04-25 12:50:39 [info]:  Environment: development
+2026-04-25 12:50:39 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-25 12:50:47 [http]: ::1 - - [25/Apr/2026:07:20:47 +0000] "POST /api/v1/auth/login HTTP/1.1" 200 752 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15"
+2026-04-25 13:01:43 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 13:02:44 [info]: SIGINT received — shutting down gracefully...
+2026-04-25 13:02:44 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 13:02:48 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 13:02:48 [info]: Cultural Connect India API running on port 8000
+2026-04-25 13:02:48 [info]:  Database: MongoDB
+2026-04-25 13:02:48 [info]:  Environment: development
+2026-04-25 13:02:48 [info]:  Base URL: http://localhost:8000/api/v1
+2026-04-25 13:05:13 [info]: SIGINT received — shutting down gracefully...
+2026-04-25 13:43:32 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 13:43:32 [info]: Server running on port 8000
+2026-04-25 13:43:32 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-25 13:43:56 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 13:43:56 [info]: Server running on port 8000
+2026-04-25 13:43:56 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-25 13:44:00 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 13:44:06 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 13:44:06 [info]: Server running on port 8000
+2026-04-25 13:44:06 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-25 13:44:37 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 13:53:28 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 13:53:28 [info]: Server running on port 8000
+2026-04-25 13:53:28 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-25 13:53:33 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 13:55:30 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 13:55:30 [info]: Server running on port 8000
+2026-04-25 13:55:30 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-25 13:55:36 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 13:56:03 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 13:56:03 [info]: Server running on port 8000
+2026-04-25 13:56:03 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-25 13:56:06 [http]: ::1 - - [25/Apr/2026:08:26:06 +0000] "POST /api/v1/auth/login HTTP/1.1" 200 752 "-" "PostmanRuntime/7.51.0"
+2026-04-25 13:56:46 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 14:09:18 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 14:09:18 [info]: Server running on port 8000
+2026-04-25 14:09:18 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-25 14:12:14 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 14:12:14 [info]: Server running on port 8000
+2026-04-25 14:12:14 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-25 14:16:50 [http]: ::1 - - [25/Apr/2026:08:46:50 +0000] "GET /api/v1 HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15"
+2026-04-25 14:16:51 [http]: ::1 - - [25/Apr/2026:08:46:51 +0000] "GET /api/v1 HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15"
+2026-04-25 14:36:10 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 14:40:31 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 14:48:34 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 14:48:45 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 14:48:49 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 14:48:49 [info]: Server running on port 8000
+2026-04-25 14:48:49 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-25 14:51:12 [http]: ::1 - - [25/Apr/2026:09:21:12 +0000] "POST /api/v1/auth/login HTTP/1.1" 200 752 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15"
+2026-04-25 14:52:28 [http]: ::1 - - [25/Apr/2026:09:22:28 +0000] "POST /api/v1/auth/login HTTP/1.1" 401 57 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15"
+2026-04-25 14:52:36 [http]: ::1 - - [25/Apr/2026:09:22:36 +0000] "POST /api/v1/auth/login HTTP/1.1" 200 752 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15"
+2026-04-25 15:10:03 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 15:48:23 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 15:48:23 [info]: Server running on port 8000
+2026-04-25 15:48:23 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-25 15:48:29 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 15:48:29 [info]: Server running on port 8000
+2026-04-25 15:48:29 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-25 15:48:31 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 15:48:31 [info]: Server running on port 8000
+2026-04-25 15:48:31 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-25 15:48:59 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 15:48:59 [info]: Server running on port 8000
+2026-04-25 15:48:59 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-25 15:49:40 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 15:49:40 [info]: Server running on port 8000
+2026-04-25 15:49:40 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-25 15:54:13 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 15:54:13 [info]: Server running on port 8000
+2026-04-25 15:54:13 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-25 16:15:51 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 16:15:51 [info]: Server running on port 8000
+2026-04-25 16:15:51 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-25 16:16:20 [http]: ::1 - - [25/Apr/2026:10:46:20 +0000] "GET /api/v1/search?q=taj HTTP/1.1" 404 67 "-" "PostmanRuntime/7.51.0"
+2026-04-25 16:19:47 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 16:19:47 [info]: Server running on port 8000
+2026-04-25 16:19:47 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-25 16:20:27 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 16:20:27 [info]: Server running on port 8000
+2026-04-25 16:20:27 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-25 16:20:55 [info]: Shutting down server...
+2026-04-25 16:21:01 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 16:21:01 [info]: Server running on port 8000
+2026-04-25 16:21:01 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-25 16:21:10 [http]: ::1 - - [25/Apr/2026:10:51:10 +0000] "GET /api/v1/search?q=taj HTTP/1.1" 200 36 "-" "PostmanRuntime/7.51.0"
+2026-04-25 16:43:23 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 17:18:10 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 17:18:10 [info]: Server running on port 8000
+2026-04-25 17:18:10 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-25 17:18:16 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 17:18:16 [info]: Server running on port 8000
+2026-04-25 17:18:16 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-25 17:18:24 [info]: Shutting down server...
+2026-04-25 17:18:29 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 17:18:29 [info]: Server running on port 8000
+2026-04-25 17:18:29 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-25 17:19:09 [http]: ::1 - - [25/Apr/2026:11:49:09 +0000] "GET /api/v1/add HTTP/1.1" 201 126 "-" "PostmanRuntime/7.51.0"
+2026-04-25 17:19:30 [http]: ::1 - - [25/Apr/2026:11:49:30 +0000] "GET /api/v1/search?q=taj HTTP/1.1" 200 138 "-" "PostmanRuntime/7.51.0"
+2026-04-25 17:44:37 [info]: Shutting down server...
+2026-04-25 17:44:50 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 17:44:50 [info]: Server running on port 8000
+2026-04-25 17:44:50 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-25 19:18:30 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 19:32:59 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 19:36:05 [info]: Shutting down server...
+2026-04-25 19:36:05 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 19:36:14 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-25 19:36:14 [info]: Server running on port 8000
+2026-04-25 19:36:14 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-25 19:42:26 [http]: ::1 - - [25/Apr/2026:14:12:26 +0000] "POST /api/v1/auth/login HTTP/1.1" 401 57 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15"
+2026-04-25 19:47:59 [http]: ::1 - - [25/Apr/2026:14:17:59 +0000] "POST /api/v1/auth/login HTTP/1.1" 200 752 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15"
+2026-04-25 20:19:03 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 20:51:19 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 21:08:10 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 21:23:20 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 21:39:49 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 22:02:25 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 22:36:27 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 23:03:26 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 23:22:05 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 23:43:06 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-25 23:55:53 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-26 00:01:03 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-26 12:25:41 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-26 12:25:41 [info]: Server running on port 8000
+2026-04-26 12:25:41 [info]: Base URL: http://localhost:8000/api/v1
+2026-04-26 12:48:03 [warn]: ⚠️  MongoDB disconnected. Attempting reconnect...
+2026-04-26 13:20:37 [info]: ✅ MongoDB connected: 127.0.0.1
+2026-04-26 13:20:37 [info]: 🚀 Cultural Connect India API running on port 8000
+2026-04-26 13:20:37 [info]: 📦 Database: MongoDB
+2026-04-26 13:20:37 [info]: 📖 Environment: development
+2026-04-26 13:20:37 [info]: 🔗 Base URL: http://localhost:8000/api/v1
+2026-04-26 13:26:03 [info]: SIGINT received — shutting down gracefully...

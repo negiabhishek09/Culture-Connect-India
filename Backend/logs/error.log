@@ -1,0 +1,35 @@
+2026-04-24 23:04:28 [error]: TypeError: Cannot read properties of undefined (reading 'map')
+    at /Users/abhishek/Desktop/Culture-Connect-India/Backend/src/middleware/validation.middleware.ts:9:42
+    at Layer.handleRequest (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/index.js:295:15
+    at processParams (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/index.js:582:12)
+    at next (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/index.js:186:3)
+2026-04-24 23:15:39 [error]: ReferenceError: sendError is not defined
+    at /Users/abhishek/Desktop/Culture-Connect-India/Backend/src/middleware/validation.middleware.ts:6:7
+    at Layer.handleRequest (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/lib/layer.js:152:17)
+    at /Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/index.js:295:15
+    at processParams (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/index.js:582:12)
+    at next (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/index.js:291:5)
+    at router.handle (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/router/index.js:186:3)
+2026-04-24 23:25:05 [error]: Error: secretOrPrivateKey must have a value
+    at Object.module.exports [as sign] (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/jsonwebtoken/sign.js:111:20)
+    at generateAccessToken (/Users/abhishek/Desktop/Culture-Connect-India/Backend/src/utils/jwt.utils.ts:6:7)
+    at /Users/abhishek/Desktop/Culture-Connect-India/Backend/src/controllers/auth.controller.ts:24:44
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/abhishek/Desktop/Culture-Connect-India/Backend/src/controllers/auth.controller.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-04-24 23:29:51 [error]: Error: secretOrPrivateKey must have a value
+    at Object.module.exports [as sign] (/Users/abhishek/Desktop/Culture-Connect-India/Backend/node_modules/jsonwebtoken/sign.js:111:20)
+    at generateRefreshToken (/Users/abhishek/Desktop/Culture-Connect-India/Backend/src/utils/jwt.utils.ts:11:7)
+    at /Users/abhishek/Desktop/Culture-Connect-India/Backend/src/controllers/auth.controller.ts:65:46
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/abhishek/Desktop/Culture-Connect-India/Backend/src/controllers/auth.controller.ts:5:58)
